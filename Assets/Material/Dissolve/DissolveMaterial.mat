@@ -58,7 +58,7 @@ Material:
     - _Edge: 0.1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Value: 0.5
+    - _Value: 2.55
     m_Colors:
     - _BaseColor: {r: 0.40161723, g: 1, b: 0.79715836, a: 0}
     - _EdgeColor: {r: 7.4642644, g: 1.3077548, b: 1.3077548, a: 0}
